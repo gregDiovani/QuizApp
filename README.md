@@ -1,1 +1,1 @@
-<h1> quiz app Project Tranining </h1>
+<h1> Quiz-App Project Tranining </h1>
